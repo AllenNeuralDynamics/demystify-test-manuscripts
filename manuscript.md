@@ -1,4 +1,4 @@
-# A shared language for reproducible manuscripts
+# A shared language for reproducible manuscripts - anchored thread validation
 
 **Ada Researcher¹, Lin Collaborator², and the Open Methods Group**
 
