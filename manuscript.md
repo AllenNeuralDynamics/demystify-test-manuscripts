@@ -45,3 +45,5 @@ Independent editing sessions converge on the same manuscript state after each bu
 ## Discussion
 
 The repository remains the durable record. Live updates are collected into deliberate snapshots, committed to a branch, and reviewed through a pull request.
+
+Comment mirror validation.
