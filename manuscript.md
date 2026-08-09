@@ -13,6 +13,7 @@ A manuscript should be as inspectable as the analysis behind it. MyST gives rese
 
 This document is being edited through a shared Yjs document. Open the same URL in another window and type in either editor: both copies converge without locking the file.
 
+Testing citations : {cite:p}`Lecoq2011Infrared1lpzz2`
 :::{note}
 The live preview is generated from the official JavaScript MyST parser. Directives remain directives in Git rather than being flattened into HTML.
 :::
